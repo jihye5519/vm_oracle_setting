@@ -52,6 +52,7 @@ D:\product\11.2.0\dbhome_1\NETWORK\ADMIN 경로에 listener.ora 와 tnsnames.ora
 <img src="./img/DB셋팅8.png">
 #### 5-4 DB정보 입력
 오라클 설치할 때 설정한 정보를 입력해 준다.
+<img src="./img/DB셋팅8.png">
 
 ## <외부PC → VM에 설치한 oracle DB IP에 접근> 
 
