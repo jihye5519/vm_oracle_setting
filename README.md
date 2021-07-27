@@ -2,7 +2,7 @@
 
 
 ### 1. VM images 등록
-<img src="./img/1.vm images 등록.png">
+<img src="./img/1.vm images 등록.png" >
 
 
 ### 2. 생성된 vm 디스크 용량 확장
